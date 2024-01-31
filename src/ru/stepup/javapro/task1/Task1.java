@@ -1,4 +1,4 @@
-package src.task1;
+package src.ru.stepup.javapro.task1;
 
 import java.lang.reflect.InvocationTargetException;
 

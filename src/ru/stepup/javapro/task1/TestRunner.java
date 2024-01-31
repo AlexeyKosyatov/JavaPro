@@ -1,17 +1,15 @@
-package src.task1;
+package src.ru.stepup.javapro.task1;
 
-import src.task1.annotation.AfterSuite;
-import src.task1.annotation.AfterTest;
-import src.task1.annotation.BeforeSuite;
-import src.task1.annotation.BeforeTest;
-import src.task1.annotation.CsvSource;
-import src.task1.annotation.Test;
+import src.ru.stepup.javapro.task1.annotation.AfterSuite;
+import src.ru.stepup.javapro.task1.annotation.AfterTest;
+import src.ru.stepup.javapro.task1.annotation.BeforeSuite;
+import src.ru.stepup.javapro.task1.annotation.BeforeTest;
+import src.ru.stepup.javapro.task1.annotation.CsvSource;
+import src.ru.stepup.javapro.task1.annotation.Test;
 
-import java.lang.reflect.Array;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 import java.lang.reflect.Modifier;
-import java.lang.reflect.Parameter;
 import java.util.ArrayList;
 import java.util.List;
 

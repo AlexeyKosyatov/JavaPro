@@ -1,4 +1,4 @@
-package src.task1.annotation;
+package src.ru.stepup.javapro.task1.annotation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
